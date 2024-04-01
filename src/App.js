@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Card from './components/card/Card';
-import Button from './components/button/button';
+import Button from './components/button/Button';
 
 function App() {
   return (
