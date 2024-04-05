@@ -1,5 +1,9 @@
 .btn{
-    background-color: red;
-    height: 200px;
-    width: 200px;
+    background-color: rgb(151, 42, 155);
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    color: wheat;
+    border-radius: 15px;
+    border: 2px solid wheat;
 }
